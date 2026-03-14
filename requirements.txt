@@ -1,0 +1,6 @@
+streamlit==1.44.1
+pandas==2.2.3
+openpyxl==3.1.5
+PyMuPDF==1.25.5
+pydantic==1.10.21
+requests==2.32.3
