@@ -1,0 +1,27 @@
+{
+  "source_file": "data/uploads/fund_fact_sheet_v2.txt",
+  "document_type": "FUND_FACT_SHEET",
+  "document_title": "Quaestio Growth Opportunities Fund - Fact Sheet",
+  "fund_name": "Quaestio Growth Opportunities Fund",
+  "manager_name": "Quaestio Capital",
+  "report_date": "2026-01-31",
+  "version_date": "2026-02-04",
+  "reference_code": "QCF-GOF-001",
+  "currency": "EUR",
+  "nav": 13250000.0,
+  "commitment_amount": 5000000.0,
+  "distribution_amount": 625000.0,
+  "status": "Active",
+  "notes": "Updated NAV and distribution following January close.",
+  "matched_record_id": 1,
+  "match_status": "NEW_VERSION_OF_EXISTING",
+  "change_summary": "Detected a newer version with changes in: report_date, version_date, nav, distribution_amount, notes",
+  "changed_fields": [
+    "report_date",
+    "version_date",
+    "nav",
+    "distribution_amount",
+    "notes"
+  ],
+  "supersedes_record_id": 1
+}

@@ -1,0 +1,13 @@
+Document Title: Quaestio Growth Opportunities Fund - Fact Sheet
+Document Type: FUND_FACT_SHEET
+Fund Name: Quaestio Growth Opportunities Fund
+Manager Name: Quaestio Capital
+Report Date: 2026-01-31
+Version Date: 2026-02-04
+Reference Code: QCF-GOF-001
+Currency: EUR
+NAV: 13250000
+Commitment Amount: 5000000
+Distribution Amount: 625000
+Status: Active
+Notes: Updated NAV and distribution following January close.
